@@ -7,11 +7,11 @@ if the distance from the ultrasonic sensor changes also the note changes, with t
 
 There is also a led... but just for fun :)
 
+The result is something really really **insane**, **noisy**, **funny** and **disturbing**
+
 You should build your own serial-to-midi adapter in this way:
 
 <img src="http://arduino.cc/en/uploads/Tutorial/MIDI_bb.png">
-
-The result is something really really insane, noisy, funny and disturbing
 
 Photo (yes, i need to do a Fritzing schema):
 
@@ -24,7 +24,7 @@ Demo:
 alt="Youtube video" width="240" height="180" border="10" /></a>
 
 TODO:
-[ ] - Add Fritzing schema
+- [ ] Add Fritzing schema
 
 Based on:
 http://minucci.net/blog/653
