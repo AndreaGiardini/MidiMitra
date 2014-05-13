@@ -15,16 +15,13 @@ You should build your own serial-to-midi adapter in this way:
 
 Photo (yes, i need to do a Fritzing schema):
 
-<img src="./Files/Photo.jpg">
+<img src="./Files/MidiMitra_Schema_bb.jpg">
 
 Demo:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=W0uRJnQ7T_U
 " target="_blank"><img src="http://img.youtube.com/vi/W0uRJnQ7T_U/0.jpg" 
 alt="Youtube video" width="240" height="180" border="10" /></a>
-
-TODO:
-- [ ] Add Fritzing schema
 
 Based on:
 http://minucci.net/blog/653
