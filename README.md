@@ -13,7 +13,7 @@ You should build your own serial-to-midi adapter in this way:
 
 <img src="http://arduino.cc/en/uploads/Tutorial/MIDI_bb.png">
 
-Photo (yes, i need to do a Fritzing schema):
+Fritzing schema:
 
 <img src="./Files/MidiMitra_Schema_bb.jpg">
 
